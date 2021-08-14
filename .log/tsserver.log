@@ -1,0 +1,13 @@
+Info 0    [13:02:50.177] Starting TS Server
+Info 1    [13:02:50.178] Version: 4.3.4
+Info 2    [13:02:50.178] Arguments: /usr/bin/node /usr/bin/tsserver --logFile /home/andresser17/Projects/landing-page/.log/tsserver.log --logVerbosity info --cancellationPipeName /tmp/b3bc1f22162fd09ae90734b861640cea/tscancellation*
+Info 3    [13:02:50.178] Platform: linux NodeVersion: 14 CaseSensitive: true
+Info 4    [13:02:50.178] ServerMode: undefined syntaxOnly: false hasUnknownServerMode: undefined
+Info 5    [13:02:50.221] Search path: /home/andresser17/Projects/landing-page
+Info 6    [13:02:50.224] For info: /home/andresser17/Projects/landing-page/main.js :: No config files found.
+Info 7    [13:02:50.239] Starting updateGraphWorker: Project: /dev/null/inferredProject1*
+Info 8    [13:02:52.980] Finishing updateGraphWorker: Project: /dev/null/inferredProject1* Version: 1 structureChanged: true Elapsed: 2738.123886000365ms
+Info 9    [13:02:52.982] Project '/dev/null/inferredProject1*' (Inferred)
+Info 10   [13:02:52.985] 	Files (19)
+
+Info 11   [13:02:52.988] -----------------------------------------------
